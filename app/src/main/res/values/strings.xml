@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComposeMultiModuleSample</string>
+    <string name="app_error_title">ERROR</string>
+    <string name="app_error_message">Try Again</string>
+</resources>
